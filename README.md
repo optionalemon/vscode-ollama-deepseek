@@ -1,7 +1,7 @@
 # VSCode DeepSeek Chat Extension
 
 ## Overview
-This is a VSCode extension that integrates DeepSeek AI chat functionality using the Ollama API. It provides a webview-based chat interface where users can interact with the DeepSeek model directly from VSCode.
+A tryout implementation of VSCode extension that integrates DeepSeek AI chat functionality using the Ollama API. It provides a webview-based chat interface where users can interact with the DeepSeek model directly from VSCode.
 
 ## Features
 - Chat with DeepSeek AI within a VSCode webview panel.
