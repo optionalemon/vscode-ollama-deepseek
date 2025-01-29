@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "ollama-deepseek-ext.helloWorld",
-        "title": "Hello World"
+        "command": "ollama-deepseek-ext.startDeepSeekChat",
+        "title": "Start DeepSeek Chat"
       }
     ]
   },
